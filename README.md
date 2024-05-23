@@ -1,6 +1,6 @@
 # Pneumonia Xray image classifier
 
-It is a web-based application that uses a deep learning model to classify chest X-ray images as either pneumonia or normal. The application is built with Flask, and the model is trained using TensorFlow.
+It is a web-based application that uses a deep learning model to classify chest X-ray images as either pneumonia or normal. The application is built with Flask, and the model is trained using TensorFlow.The dataset can be downloaded from kaggle: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 ## Model Description
 
