@@ -1,0 +1,2 @@
+dataset download link: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+api command: kaggle datasets download -d paultimothymooney/chest-xray-pneumonia
